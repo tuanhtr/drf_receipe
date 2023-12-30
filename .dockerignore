@@ -1,0 +1,10 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python 
+# Byte-compiled / optimized / DLL files
+__pycache__/
